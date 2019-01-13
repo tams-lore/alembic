@@ -1,5 +1,5 @@
 ---
-title: TAMS Horror Stories
+title: IonTAMS
 feature_text: |
   A rehosting of the classic page
 feature_image: "https://picsum.photos/2560/600?image=873"
