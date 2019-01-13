@@ -7,8 +7,6 @@ excerpt: ""
 aside: false
 ---
 
-## My description
-
 This was originally hosted at http://oubliette.stormloader.com/tams.htm 
 
 These stories are pretty classic. Final Fantasy VII was released in January 1997, so they're probably from around that time.
