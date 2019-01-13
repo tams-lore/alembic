@@ -9,7 +9,7 @@ aside: false
 
 I originally for this website to have a proper follow up to TAMS Horror Stories, but honestly, most people my year were pretty good at keeping their activities fairly under wraps, at least towards me. I don't have enough details to write a long form story about anybody, but I did ask my friend who communicated fairly extensively with the following story's subject to write about him.
 
-# What Happens in Vegas Comes Back to Frisco
+#### What Happens in Vegas Comes Back to Frisco
 
 This tale involves one Cal3. Cal3 was of a somewhat mathematical inclination, but unfortunately became increasingly good at making increasingly poor decisions throughout his TAMS career, including introducing himself as “_that guy_ in Calculus III.” Stories attributed to him include ceiling-high towers of energy drinks [link](https://imgur.com/I8DvroE) as “tributes to the GPA gods” during finals week, arriving at a Chemistry final with 15 minutes left (already doing poorly in said class), and other assorted follies. He was also known for an online pool addiction, although he was rather poor at the real thing. But it’s a different type of antics that earns him his place in this document.
 
