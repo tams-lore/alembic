@@ -21,7 +21,7 @@ Check out Lord Spurius' hit new song: TAMSters' Paradise!
 
 NOTE: If you haven't played Final Fantasy VII, part of TAMSters' Paradise won't make much nor will #15 below.  Or, if you are currently playing it and haven't reached the point where Aeris dies and don't know that she does, you may not read the song or point #15, as it explicitly tells you that she dies... doh, I guess I just told you what happens to her... heh... oh well, now you can read everything here without having to worry about anything being spoilt!
 
-[1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
+[1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] \[Editor's note: these were originally links to the stories sections of the page, but I'm not sure how to do that in jekyll.] 
  
 
 #### 1. No sex.
