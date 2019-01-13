@@ -11,7 +11,7 @@ Welcome to TAMS Lore! Out of TAMS’ history, most of the stories have only been
 
 A lot of rules in the handbook have stories behind them. One of the Admins told us the laser pointer story at orientation. You could probably ask them for more stories.
 
-#### Links
+__Links__
 
 [1990-1991 Texas Academy of Mathematics & Science Guide Book](http://digital.library.unt.edu/ark:/67531/metadc232275/)
 
