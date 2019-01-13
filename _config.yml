@@ -76,7 +76,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "TAMS Lore" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "https://secure.gravatar.com/avatar/2818370cbf963f34647b6a24432c9e64" # Site logo, also used in jekyll-seo-tag
 description: "TAMS Lore is a repository of history for the Texas Academy of Mathematics and Science" # Site description and default description, also used in jekyll-seo-tag
 url: "https://tams-lore.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
