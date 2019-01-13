@@ -1,5 +1,5 @@
 ---
-title: About Alembic
+title: About TAMS Lore
 feature_text: |
   ## TAMS Lore
   A collection of Stories
