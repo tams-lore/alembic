@@ -11,26 +11,6 @@ This was originally hosted at http://oubliette.stormloader.com/tams.htm (dead li
 
 These stories are pretty classic. Final Fantasy VII was released in January 1997, so they're probably from around that time.
 
-## The Original Content---
-
-title: TAMS Horror Stories
-
-feature_text: |
-
-  A rehosting of the classic page
-
-feature_image: "https://picsum.photos/2560/600?image=873"
-
-excerpt: ""
-
-aside: false
-
----
-
-This was originally hosted at http://oubliette.stormloader.com/tams.htm (dead link)
-
-These stories are pretty classic. Final Fantasy VII was released in January 1997, so they're probably from around that time.
-
 ## The Original Content
 
 The following is a collection of various stories and stuff that I've heard about/participated involving TAMS.  Some of it I have no idea about how true it is... but others I know damn good and well are true... but which is which is up to you to decide ;)
