@@ -1,6 +1,15 @@
-# Old ionTAMS Articles
+---
+title: TAMS Horror Stories
+feature_text: |
+  A rehosting of the classic page
+feature_image: "https://picsum.photos/2560/600?image=873"
+excerpt: ""
+aside: false
+---
 
-## DECA and All-Region: The Controversy
+IonTAMS was (and maybe still is idk) the online newspaper for TAMS. As if we actually needed a newspaper, it's a decent source of verifiable history on the program for the couple years ion actually spent trying to report TAMS happenings. Old articles can be found on the Internet Archive: <https://web.archive.org/web/*/www.iontams.com>
+
+### DECA and All-Region: The Controversy
 
 by Varada Salimath and Sarah Stephens · February 1, 2014
 
@@ -26,7 +35,7 @@ The cancellation of DECA has revived the disappointment of TAMS students like th
 
 Although we may attend the Texas Academy of Mathematics and Science, by no means is everyone closeted away solely solving calculus problems and writing Siemens papers every waking hour. TAMS boasts countless state and nationally ranked competitors in various activities. While TAMS is a primarily academic environment, its students shouldn’t be barred from exploring their other talents. Should students be disqualified from these activities simply because they don’t attend a traditional high school?
 
-## AN INTERVIEW WITH DR. DANE CROSSLEY
+### AN INTERVIEW WITH DR. DANE CROSSLEY
 
 NOVEMBER 18, 2013 VARADA SALIMATH 2 2013-2014
 
@@ -51,7 +60,7 @@ Dr. Crossley explains that the integrated nature of biology is what makes it suc
 
 Finally, I asked Dr. Crossley if there were any words he would like to leave the TAMS Class of 2015 with. “You’re all in a unique position,” he said after some thought. “You’ve been given a tremendous opportunity because of your own talents. So you must take advantage of where you are because you all have the capacity to be exceptionally successful.”
 
-## The Bio Bust
+### The Bio Bust
 
 by Lucy Hao · September 25, 2013
 
@@ -83,7 +92,7 @@ And finally, for many juniors, seniors, and admin, there is just disappointment.
 
 As the juniors come to accept the fact that their scores, whether satisfactory or not, will be dropped, all are left wondering how this incident will affect the juniors and TAMS. Has the reputation of the junior class already been ruined, despite only being a month into school? Who was really at fault, the senior or the juniors? How will this affect TAMS’s relations with UNT faculty?
 
-## How to Get a TAMS Girl
+### How to Get a TAMS Girl
 
 https://web.archive.org/web/20150330032719/http://iontams.com:80/2012/11/05/how-to-get-a-tams-girl/
 
